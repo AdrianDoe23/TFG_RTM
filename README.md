@@ -1,7 +1,7 @@
 # Repositorio del Trabajo Final de Graduación de Licenciatura en Informatica
 
 # Titulo
-Sistema de planificación y seguimiento de productos alimenticios
+Sistema de gestión de alquiler de vestimenta casual para vacaciones
 
 # Simulación prototipo
 <link_url>
