@@ -6,7 +6,7 @@ Sistema de gestión de alquiler de vestimenta casual para vacaciones
 # Configuración
 TBD
 
-# Link de vista previa al sitio web (aún en construcción)
+# Link de vista previa al sitio web (en construcción)
 https://rtmreservation.web.app/
 
 # Autor
